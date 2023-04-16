@@ -1,8 +1,11 @@
 # pokemon-app
 
-This project is 100% java project made by retrofit in which i included api to show different charachters of pokemon 
+This project is 100% java project in which i included api to show different charachters of pokemon .
+
+I used retrofit because retrofit has a well-designed, intuitive API with a small number of extension points for common use-cases.
 
 I used to implement this application the pattern MVC .
+
 ![image](https://user-images.githubusercontent.com/106548290/232314323-32afac7c-2941-480c-8d07-506fff4670e2.png)
 
 the first page appairs when we open the app is this page in which we can see the group of characters we recovered
